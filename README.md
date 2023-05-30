@@ -1,2 +1,2 @@
-# LIS546-FinalProject
-LIS 546 final data curation protocol documents
+# LIS546-Datavision
+Documents for the Datavision project as a part of LIS 546.
