@@ -1,0 +1,5 @@
+This folder includes all the clean datasets created for the Datavision project.
+An important consideration is that time constraints did not allow our team to create complete data for each year. 
+Final prediction datasets going two years in the past have been created to illustrate how this type of dataset would look across editions of the contest.
+To illustrate how the data for a year would work, we have included datasets for top 10 predictions by juries and clubs in Eurovoix's Eurojury and clubs in the OGAE Poll.
+Please note that other organizations, and their rankings, could and would be included as long as the policies established in the documentation are followed.
